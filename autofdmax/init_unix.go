@@ -3,7 +3,7 @@
 package autofdmax
 
 import (
-	"github.com/khulnasoft-labs/fdmax"
+	"github.com/khulnasoft-lab/fdmax"
 )
 
 func init() {

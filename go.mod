@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/fdmax
+module github.com/khulnasoft-lab/fdmax
 
 go 1.18
 

@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	_ "github.com/khulnasoft-labs/fdmax/autofdmax"
+	_ "github.com/khulnasoft-lab/fdmax/autofdmax"
 )
 
 func main() {

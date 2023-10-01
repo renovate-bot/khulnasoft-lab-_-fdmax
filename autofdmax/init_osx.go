@@ -2,7 +2,7 @@
 
 package autofdmax
 
-import "github.com/khulnasoft-labs/fdmax"
+import "github.com/khulnasoft-lab/fdmax"
 
 func init() {
 	_ = fdmax.Set(fdmax.OSXMax)
